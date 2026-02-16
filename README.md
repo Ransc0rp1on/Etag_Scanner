@@ -240,7 +240,7 @@ Install Dependencies
 bash
 pip install requests
 🗂️ Project Structure
-text
+```
 etag-analyzer/
 ├── Etag_ext.py          # Main script
 ├── README.md            # This file
@@ -249,5 +249,6 @@ etag-analyzer/
     ├── apache_output.txt
     ├── nginx_output.txt
     └── iis_output.txt
+```
 ##🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
